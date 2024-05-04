@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/dsaintsurin/adventofcode/day2"
 
 func main() {
-	fmt.Println("Advent Of Code 2023!")
+	day2.Solution("./day2/input.txt")
 }
